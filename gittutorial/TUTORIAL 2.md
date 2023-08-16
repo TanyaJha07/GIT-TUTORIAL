@@ -12,8 +12,6 @@
 - how to add remote?(cloud) to save your code in the cloud for accessing
     - `git remote add origin https://github.com/TanyaJha07/oppsies.git` 
 
-<br>
-
 - how to push to git hub?
 
   - `git push --set-upstream origin master`
